@@ -16,7 +16,10 @@ Following download quality are supported:
 # How to use:
 - `Clone or download the zip: https://github.com/lohriialo/YouTubeVideoDownloader/archive/master.zip`
 - `Go to dist folder`
+- `Unzip "YouTubeVideoDownloader.zip"`
 - `Run 'YouTube Video Downloader.exe'`
+
+![alt text](https://github.com/lohriialo/YouTubeVideoDownloader/blob/master/Capture.PNG)
 
 # Modify and extend it further, requiremments:
 - `Python 3.x`
