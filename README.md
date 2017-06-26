@@ -18,6 +18,8 @@ Following download quality are supported:
 - `Go to dist folder`
 - `Run 'YouTube Video Downloader.exe'`
 
+![alt text](https://github.com/lohriialo/YouTubeVideoDownloader/blob/master/Capture.PNG)
+
 # Modify and extend it further, requiremments:
 - `Python 3.x`
 - `PyQt4: https://sourceforge.net/projects/pyqt/files/PyQt4/`
