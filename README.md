@@ -25,7 +25,7 @@ Following download quality are supported:
 - `http://www.pyinstaller.org/`
 
 # Convert .ui to .py with pyuic4
-cmd: pyuic4 <inputpath to file.ui> -o <outputpath to file.py>
+- `pyuic4 <inputpath to file.ui> -o <outputpath to file.py>`
 
 # Compile the app to executable using pyInstaller
-cmd: pyinstaller <path to appplication main YouTubeDownloader.py> --onedir --onefile --name "YouTube Video Downloader" --windowed --noconsole
+- `pyinstaller <path to appplication main YouTubeDownloader.py> --onedir --onefile --name "YouTube Video Downloader" --windowed --noconsole`
