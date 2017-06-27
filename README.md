@@ -14,8 +14,7 @@ Following download quality are supported:
  - `8K`
  
 # How to use:
-- `Clone or download the zip: https://github.com/lohriialo/YouTubeVideoDownloader/archive/master.zip`
-- `Go to "dist" folder`
+- `Download zip https://github.com/lohriialo/YouTubeVideoDownloader/blob/master/dist/YouTubeVideoDownloader.zip`
 - `Unzip "YouTubeVideoDownloader.zip"`
 - `Run 'YouTube Video Downloader.exe'`
 
