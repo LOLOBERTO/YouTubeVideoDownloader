@@ -1,5 +1,5 @@
 # YouTubeVideoDownloader
-YouTubeVideoDownloader provides a UI to directly download videos from a video url or a playlist url.
+YouTubeVideoDownloader provides a UI to directly download videos from a video url or a playlist url, download all the way upto 8K
 
 It is an extension of the popular commandline video downloader "youtube-dl" https://github.com/rg3/youtube-dl
 
@@ -10,7 +10,7 @@ Download videos from YouTube and many other video sites, for supported sites, se
  - `No Ads`
  - `No download limit of a playlist`
 
-# Following download quality are supported:
+# Download quality supported:
  - `360p`
  - `480p`
  - `720p`
@@ -40,7 +40,6 @@ Download videos from YouTube and many other video sites, for supported sites, se
 
 
 # MIT License
-
 # Copyright (c) 2017 Lohrii Alo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
