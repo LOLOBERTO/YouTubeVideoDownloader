@@ -3,7 +3,7 @@ YouTubeVideoDownloader provides a UI to directly download videos from a video ur
 
 It is an extension of the popular commandline video downloader "youtube-dl" https://github.com/rg3/youtube-dl
 
-Download videos from YouTube and many other video sites, for supported sites, see: https://github.com/rg3/youtube-dl/blob/master/docs/supportedsites.md
+Download videos from YouTube, Facebook, Instagram, Dailymotion and many more sites, for a comeplete list of supported sites, see: https://github.com/rg3/youtube-dl/blob/master/docs/supportedsites.md
 
 # Why YouTubeVideoDownloader?
  - `Free`
